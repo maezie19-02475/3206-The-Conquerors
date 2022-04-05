@@ -43,3 +43,6 @@ Many workers have had to curtail their working hours as a result of the pandemic
 
 These modifications are expected to have a major impact on happiness. Most studies show that individuals who are unemployed are 5 to 15% less content with their lives than those who are employed. In the 2017 edition of our survey, we discovered that unemployed workers are on average 0.6 points less satisfied than their full-time counterparts on a scale of 0-10. Full-time workers in Western Europe and North America are reported to be 1.11 and 1.31 points more pleased with their lives than those who are unemployed, respectively. In comparison to other life circumstances, becoming unemployed is also less sensitive to well-being adaption over time.
 ### Expected Output
+The expected output of our topic entitled "Covid-19 Descriptive Analysis: Information and Impact on Employment" is planning for a better community and helping the unemploy people during this pandemic. A better community means the people living in one community need to be united. To have a better group, the people must follow the rules and regulations. The plan in helping the unemploy people is to create a program that will train or teach them to do a product. The product will be selling, and they can earn from this. 
+
+### Resources
