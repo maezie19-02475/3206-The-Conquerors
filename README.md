@@ -49,3 +49,16 @@ These modifications are expected to have a major impact on happiness. Most studi
 The expected output of our topic entitled "Covid-19 Descriptive Analysis: Information and Impact on Employment" is planning for a better community and helping the unemploy people during this pandemic. A better community means the people living in one community need to be united. To have a better group, the people must follow the rules and regulations. The plan in helping the unemploy people is to create a program that will train or teach them to do a product. The product will be selling, and they can earn from this. 
 
 ### Resources
+https://www.oecd.org/employment/covid-19.htm
+
+https://hdr.undp.org/en/content/how-covid-19-changing-world-statistical-perspective?utm_source=EN&utm_medium=GSR&utm_content=US_UNDP_PaidSearch_Brand_English&utm_campaign=CENTRAL&c_src=CENTRAL&c_src2=GSR&gclid=CjwKCAjwxZqSBhAHEiwASr9n9PHJp2jfPJmQh3s-RNYqSLNl7SLQKqyS0iwni-7xzDe5kWgdyL7FLxoCMcYQAvD_BwE
+
+https://www.pewresearch.org/fact-tank/2021/04/14/u-s-labor-market-inches-back-from-the-covid-19-shock-but-recovery-is-far-from-complete/
+
+https://www.epi.org/publication/young-workers-covid-recession/
+https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=why+covid+19+cases+increases+and+causes+job+loss&btnG=#d=gs_qabs&u=%23p%3DhHW5TZVJVkkJ
+
+https://journals.sagepub.com/doi/full/10.1177/0971523121995072
+
+https://worldhappiness.report/ed/2021/work-and-well-being-during-covid-19-impact-inequalities-resilience-and-the-future-of-work/?fbclid=IwAR3lnekttdYSS62xH39TjAZj2BMdBkzTxkHNcayrbmIqW8mzPDEtoSF53f4
+
