@@ -62,3 +62,6 @@ https://journals.sagepub.com/doi/full/10.1177/0971523121995072
 
 https://worldhappiness.report/ed/2021/work-and-well-being-during-covid-19-impact-inequalities-resilience-and-the-future-of-work/?fbclid=IwAR3lnekttdYSS62xH39TjAZj2BMdBkzTxkHNcayrbmIqW8mzPDEtoSF53f4
 
+https://www.kaggle.com/datasets/vineethakkinapalli/impact-of-covid19-on-employment-ilostat
+
+https://covidtracking.com/data#state-al
