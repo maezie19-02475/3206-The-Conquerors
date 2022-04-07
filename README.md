@@ -46,7 +46,7 @@ Many workers have had to curtail their working hours as a result of the pandemic
 These modifications are expected to have a major impact on happiness. Most studies show that individuals who are unemployed are 5 to 15% less content with their lives than those who are employed. In the 2017 edition of our survey, we discovered that unemployed workers are on average 0.6 points less satisfied than their full-time counterparts on a scale of 0-10. Full-time workers in Western Europe and North America are reported to be 1.11 and 1.31 points more pleased with their lives than those who are unemployed, respectively. In comparison to other life circumstances, becoming unemployed is also less sensitive to well-being adaption over time.
 
 ### Expected Output
-The expected output of our topic entitled "Covid-19 Descriptive Analysis: Information and Impact on Employment" is planning for a better community and helping the unemploy people during this pandemic. A better community means the people living in one community need to be united. To have a better group, the people must follow the rules and regulations. The plan in helping the unemploy people is to create a program that will train or teach them to do a product. The product will be selling, and they can earn from this. 
+The expected output of our topic entitled "Covid-19 Descriptive Analysis: Information and Impact on Employment" is planning for a better community and helping the unemploy people during this pandemic. A better community means the people living in one community need to be united. To have a better group, the people must follow the rules and regulations. The plan in helping the unemploy people is to create a program that will train or teach them to do a product. Having free training for the unemployed people will help to survive the pandemic. To help the unemployed person needs to have a seminar on freelancing to know the skills. The product will be selling, and they can earn from this. Support the people is the best key to growing the business that they build. 
 
 ### Resources
 https://www.oecd.org/employment/covid-19.htm
@@ -61,6 +61,8 @@ https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=why+covid+19+cases+incre
 https://journals.sagepub.com/doi/full/10.1177/0971523121995072
 
 https://worldhappiness.report/ed/2021/work-and-well-being-during-covid-19-impact-inequalities-resilience-and-the-future-of-work/?fbclid=IwAR3lnekttdYSS62xH39TjAZj2BMdBkzTxkHNcayrbmIqW8mzPDEtoSF53f4
+
+https://www.sunlife.com.ph/en/life-goals/live-life-brighter/jobless-here-how-you-can-cope-with/
 
 https://www.kaggle.com/datasets/vineethakkinapalli/impact-of-covid19-on-employment-ilostat
 
