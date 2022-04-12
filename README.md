@@ -3,19 +3,15 @@
 ## COVID-19 DESCRIPTIVE ANALYSIS: INFORMATION AND IMPACT ON EMPLOYMENT
 
 ### Introduction
-The COVID-19 outbreak has triggered one of the biggest job crises since the Great Depression. The crisis has the capacity to cause unemployment and widen inequities, 
-with long-term effects. The coronavirus outbreak, which began in February 2020, wreaked havoc on the American labor market, increasing the unemployment rate to new highs
-and displacing millions of people.
+The COVID-19 epidemic has caused one of the biggest job crises since the Great Recession. The crisis has the potential to raise unemployment and widen inequities, both of which will have long-term implications. The coronavirus pandemic, which began in February 2020, wreaked havoc on the American job market, driving unemployment to new highs and displacing millions of people.
 
 
-The newly released report by the UN system's and supranational organizations' Committee for the Coordination of Statistical Activities (CCSA) provides a snapshot of data
-and statistics on how COVID-19 is affecting the world today, from economic and environmental fluctuations to changes in income, education, employment, domestic violence,
-and more. It examines vulnerable subpopulations in different countries, regions, and subpopulations. COVID-19 is an unprecedented crisis that affects all aspects of our
-lives, according to the report.
+The Committee for the Coordination of Statistical Activities (CCSA) of the United Nations system and supranational organizations recently released a report that provides a snapshot of data and statistics on how COVID-19 is negatively impacting the world today, from environmental and economic variances to changes in income, education, employment, domestic violence, and more. It looks at vulnerable groups in various countries, regions, and subpopulations. According to the research, COVID-19 is an extraordinary issue that has an impact on all parts of our lives.
 
-The COVID-19 downturn impacted some Americans more than others as it spread throughout the economy. Unemployment rose faster among women than among men, reversing the trend seen during the Great Recession. Job losses were particularly higher among young adults, those with less education, Hispanic women, and immigrants. Unmarried mothers reported a greater decline in employment than other parents, and low-wage employees saw a particularly significant drop in employment.
+Many Americans were affected more than others as the COVID-19 issue spread throughout the economy. Women's unemployment rose quicker than men's during the Great Recession, reversing a previous tendency. Jobs were more likely to be lost by young people, those with less education, Hispanic women, and immigrants. Single parents reported a greater decline in employment than other parents, and reduced workers reported a particularly steep drop.
 
-Millions of workers of all ages lost their employment across the United States during the coronavirus-driven crisis, but the economic effect on young people was far more severe. Not only have many young people in this country had to deal with the painful reality of going back to school without in-person classes at their colleges and high schools, but the job market has also been terrible. Historically, young people have been severely affected in many ways during economic downturns, but this recession has been exceptionally severe due to the parts of the economy that have been hit the hardest. Furthermore, many people have been effectively banned from receiving unemployment benefits, despite considerable changes to the unemployment insurance system.
+During the coronavirus-driven crisis, millions of workers of all ages lost their jobs across the United States, but the economic impact on young people was significantly more severe. Not only have many young people in this country had to deal with the agony of returning to school without having in-person classes at their colleges and high schools, but the employment market has also been bad. Young people have historically been negatively impacted in a variety of ways during economic downturns, but the current recession has been particularly severe due to the economy's hardest-hit sectors. Furthermore, despite significant reforms to the unemployment insurance system, many people have effectively been barred from getting unemployment benefits.
+
 
 ### Problem Statement
 
