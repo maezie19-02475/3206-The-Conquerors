@@ -22,15 +22,12 @@ Over 4.3 million confirmed cases and 290,000 deaths have been reported worldwide
 
 ### Significance of the Proposed Project
 
-This study would have far more significance for the school, students, and society as a whole. It is a fact that any study is conducted not only because a problem exists, but also because the problem is considered or relevant to a specific individual.
-
 The following will benefit from the study's findings:
-
 The given data would guide citizens of the US, particularly job workers, to have a deeper understanding about this study and for them to know what the things to do are in times of unemployment.
 
-This study will aid Batangas State University in giving technical information that may be valuable in fulfilling research goals, particularly in technological fields. This study may be excellent information for teaching concepts or hypotheses connected to Information Technology, as well as other relevant subjects, to College of Information Technology faculty members.
+These findings will benefit Batangas State University in providing technical knowledge that will be useful in achieving research objectives, especially in technological sectors. This research could be useful in teaching College of Information Technology faculty members about information technology concepts and hypotheses, as well as other pertinent areas.
 
-This study will provide information to College of Information Technology students that will aid them in creating new understanding. Future Researchers: This project will be used as a foundation for future relevant project research by this study. They will be able to study and learn about how this type of technology will help them in tracking records of Covid-19 Victims and Unemployed Workers .
+These findings will benefit Students at the College of Information Technology to help them develop new understanding. Future Researchers: This study will use this project as a starting point for future relevant project research. They will be able to research and learn about how this type of technology can aid in the tracking of Covid-19 victims' and unemployed workers' data.
 
 
 ### Methods
