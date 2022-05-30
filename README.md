@@ -20,7 +20,7 @@ Poverty is rooted on unemployment and underemployment. For the destitute, labor 
 
 
 GOAL 2: DECENT WORK AND ECONOMIC GROWTH
-A social perspective on development emphasizes the belief that good labor is the best path to socioeconomic progress, poverty elimination, and personal happiness.The creation of better and more productive occupations, particularly those that can absorb large numbers of working poor, should be prioritized. Investing in labor-intensive industries, particularly agriculture, supporting a shift in employment structure to higher-productivity occupations and sectors, and improving work quality in the informal economy are all critical aspects for producing such jobs. Furthermore, there should be an emphasis on providing disadvantaged people with the essential skills and assets to allow them to fully benefit from any increase in work opportunities.
+The belief that good labor is the best path to socioeconomic progress, poverty elimination, and personal happiness is emphasized in a social perspective on development. The creation of better and more productive occupations, particularly those that can absorb large numbers of working poor, should be prioritized. Investing in labor-intensive industries, notably agriculture, promoting a shift in employment structure toward higher-productivity occupations and sectors, and increasing work quality in the informal economy are all important factors in creating such jobs. Furthermore, disadvantaged persons should be given priority in gaining the necessary skills and assets to properly benefit from any growth in job prospects.
 
 
 ### Problem Statement
