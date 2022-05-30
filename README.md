@@ -13,6 +13,16 @@ Many Americans were affected more than others as the COVID-19 issue spread throu
 During the coronavirus-driven crisis, millions of workers of all ages lost their jobs across the United States, but the economic impact on young people was significantly more severe. Not only have many young people in this country had to deal with the agony of returning to school without having in-person classes at their colleges and high schools, but the employment market has also been bad. Young people have historically been negatively impacted in a variety of ways during economic downturns, but the current recession has been particularly severe due to the economy's hardest-hit sectors. Furthermore, despite significant reforms to the unemployment insurance system, many people have effectively been barred from getting unemployment benefits.
 
 
+### SUSTAINABLE DEVELOPMENT GOALS
+
+GOAL 1: NO POVERTY
+Poverty is rooted on unemployment and underemployment. For the destitute, labor is frequently their sole means of improving their situation. As a result, creating productive job opportunities is critical for poverty reduction and long-term economic and social development. It is critical to offer respectable jobs for the underprivileged, particularly women and young people, that provide both income and empowerment. 
+
+
+GOAL 2: DECENT WORK AND ECONOMIC GROWTH
+A social perspective on development emphasizes the belief that good labor is the best path to socioeconomic progress, poverty elimination, and personal happiness.The creation of better and more productive occupations, particularly those that can absorb large numbers of working poor, should be prioritized. Investing in labor-intensive industries, particularly agriculture, supporting a shift in employment structure to higher-productivity occupations and sectors, and improving work quality in the informal economy are all critical aspects for producing such jobs. Furthermore, there should be an emphasis on providing disadvantaged people with the essential skills and assets to allow them to fully benefit from any increase in work opportunities.
+
+
 ### Problem Statement
 
 The coronavirus led to two types of employment losses: a temporary lockdown-induced job loss that was only temporary, and a permanent job loss that was a major issue. Many people are not permitted to walk outside during the pandemic and have lost their jobs as a result of the policies that must be followed. This is a major issue, particularly for those with families and children who require assistance.Unemployment or job loss can actually impact a person's mind and body by causing depression or stress because they will overthink their problem. It is also hard to find a job, especially now that there is a global epidemic because other people are not able to leave the house and there are only a few jobs available because people cannot stay close to each other.
