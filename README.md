@@ -57,3 +57,5 @@ Our topic, "Covid-19 Descriptive Analysis: Information and Impact on Employment,
  https://www.ilo.org/global/topics/coronavirus/lang--en/index.htm
  
 https://www.sunlife.com.ph/en/life-goals/live-life-brighter/jobless-here-how-you-can-cope-with/
+
+https://www.adb.org/news/youth-women-among-most-vulnerable-job-loss-southeast-asia-during-covid-19-adb
