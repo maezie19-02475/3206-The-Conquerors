@@ -24,9 +24,9 @@ The belief that good labor is the best path to socioeconomic progress, poverty e
 
 ### Problem Statement
 
-The Covid 19 pandemic has resulted a signifucant increase in unemployment/jobloss, the non-standard forms of employmwnt and informal workers situation led to low morale and self esteem, high stress and also anxiety on overthinking problem on their work and also added family problem or personal problem. The total death in Covid 19 can also be one of the problem why people/worker lost jobs because the company or other business branches started to lesten the number of worker on their bussiness to prevent to be infected by the virus. The effects of the Covid-19 pandemic are not the same for all workers. It is the vulnerable workers who find it increasingly more difficult to adverse impact on their quality of life
+The coronavirus led to two types of employment losses: a temporary lockdown-induced job loss that was only temporary, and a permanent job loss that was a major issue. Many people are not permitted to walk outside during the pandemic and have lost their jobs as a result of the policies that must be followed. This is a major issue, particularly for those with families and children who require assistance.Unemployment or job loss can actually impact a person's mind and body by causing depression or stress because they will overthink their problem. It is also hard to find a job, especially now that there is a global epidemic because other people are not able to leave the house and there are only a few jobs available because people cannot stay close to each other.
 
-The pandemic of Covid 19 hits the most  Philippines harder than other counties. The global lockdown due to the virus is the strictes in the world that all of the people were affected especially on their jobs, many people lost their job tend to lost income and to start also the increase of poverty.
+Over 4.3 million confirmed cases and 290,000 deaths have been reported worldwide as a result of the COVID-19 pandemic. One issue that workers are dealing with is the loss of personal jobs as a result of the worldwide pandemic. There are persons who are having difficulty obtaining work, as well as those who have been fired from their former job. The impact on all workers is that they may get unhappy and anxious as a result of their unemployment, and their families may suffer as a result of them taking money for their daily requirements at work. Some people work in construction because it is the only easy employment available, but the pay is insufficient to meet the family's needs, and the job is also demanding.
 
 
 ### Significance of the Proposed Project
@@ -50,21 +50,5 @@ These changes are predicted to have a significant influence on happiness. Accord
 Our topic, "Covid-19 Descriptive Analysis: Information and Impact on Employment," is expected to result in community planning and assistance to the unemployed during the pandemic. A better community necessitates the unification of those who live in the same area. People must obey the rules and regulations in order to form a better group. The strategy for assisting the unemployed is to develop a program that will train or teach them how to perform a task. Free training for unemployed people will aid in the pandemic's survival. To assist the unemployed, a freelancing seminar is required to learn the skills. The product will sell, and they will be able to profit from it. The best key is to support the people  in growing the business that they build.
 
 ### Resources
-https://www.oecd.org/employment/covid-19.htm
-
-https://hdr.undp.org/en/content/how-covid-19-changing-world-statistical-perspective?utm_source=EN&utm_medium=GSR&utm_content=US_UNDP_PaidSearch_Brand_English&utm_campaign=CENTRAL&c_src=CENTRAL&c_src2=GSR&gclid=CjwKCAjwxZqSBhAHEiwASr9n9PHJp2jfPJmQh3s-RNYqSLNl7SLQKqyS0iwni-7xzDe5kWgdyL7FLxoCMcYQAvD_BwE
-
-https://www.pewresearch.org/fact-tank/2021/04/14/u-s-labor-market-inches-back-from-the-covid-19-shock-but-recovery-is-far-from-complete/
-
-https://www.epi.org/publication/young-workers-covid-recession/
-https://scholar.google.com/scholar?hl=en&as_sdt=0%2C5&q=why+covid+19+cases+increases+and+causes+job+loss&btnG=#d=gs_qabs&u=%23p%3DhHW5TZVJVkkJ
-
-https://journals.sagepub.com/doi/full/10.1177/0971523121995072
-
-https://worldhappiness.report/ed/2021/work-and-well-being-during-covid-19-impact-inequalities-resilience-and-the-future-of-work/?fbclid=IwAR3lnekttdYSS62xH39TjAZj2BMdBkzTxkHNcayrbmIqW8mzPDEtoSF53f4
-
-https://www.sunlife.com.ph/en/life-goals/live-life-brighter/jobless-here-how-you-can-cope-with/
-
-https://www.kaggle.com/datasets/vineethakkinapalli/impact-of-covid19-on-employment-ilostat
-
-https://covidtracking.com/data#state-al
+ https://www.oecd.org/employment/covid-19.htm
+ 
