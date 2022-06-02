@@ -1,6 +1,6 @@
 # 3206-The-Conquerors
 
-## COVID-19 DESCRIPTIVE ANALYSIS: INFORMATION AND IMPACT ON EMPLOYMENT
+## COVID-19 DESCRIPTIVE ANALYSIS: UNEMPLOYMENT SITUATION IN THE PHILIPPINES
 
 ### Introduction
 The COVID-19 pandemic has induced one of the worst jobs crises because of the Great Depression.  The chance to public health, the financial and social disruption threatens the long-time period livelihoods and wellness of hundreds of thousands There is an actual risk that the disaster will grow poverty and widen inequalities, with the effect felt for years to come. Policies to protect people from employment dangers and enhance new employment possibilities are urgently needed. Countries need to do the whole lot they could to prevent this jobs disaster from becoming a social disaster.
