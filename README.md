@@ -59,3 +59,7 @@ Our topic, "Covid-19 Descriptive Analysis: Information and Impact on Employment,
 https://www.sunlife.com.ph/en/life-goals/live-life-brighter/jobless-here-how-you-can-cope-with/
 
 https://www.adb.org/news/youth-women-among-most-vulnerable-job-loss-southeast-asia-during-covid-19-adb
+
+https://europepmc.org/article/pmc/pmc8817409
+
+https://onlinelibrary.wiley.com/doi/full/10.1111/ilr.12226
