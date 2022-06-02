@@ -3,8 +3,7 @@
 ## COVID-19 DESCRIPTIVE ANALYSIS: INFORMATION AND IMPACT ON EMPLOYMENT
 
 ### Introduction
-The COVID-19 epidemic has caused one of the biggest job crises since the Great Recession. The crisis has the potential to raise unemployment and widen inequities, both of which will have long-term implications. The coronavirus pandemic, which began in February 2020, wreaked havoc on the American job market, driving unemployment to new highs and displacing millions of people.
-
+The COVID-19 pandemic has induced one of the worst jobs crises because of the Great Depression.  The chance to public health, the financial and social disruption threatens the long-time period livelihoods and wellness of hundreds of thousands There is an actual risk that the disaster will grow poverty and widen inequalities, with the effect felt for years to come. Policies to protect people from employment dangers and enhance new employment possibilities are urgently needed. Countries need to do the whole lot they could to prevent this jobs disaster from becoming a social disaster.
 
 The Committee for the Coordination of Statistical Activities (CCSA) of the United Nations system and supranational organizations recently released a report that provides a snapshot of data and statistics on how COVID-19 is negatively impacting the world today, from environmental and economic variances to changes in income, education, employment, domestic violence, and more. It looks at vulnerable groups in various countries, regions, and subpopulations. According to the research, COVID-19 is an extraordinary issue that has an impact on all parts of our lives.
 
