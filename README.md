@@ -54,4 +54,5 @@ Our topic, "Covid-19 Descriptive Analysis: Information and Impact on Employment,
  
  https://www.ilo.org/employment/Informationresources/covid-19/lang--en/index.htm
  
+ https://www.ilo.org/global/topics/coronavirus/lang--en/index.htm
  
