@@ -52,3 +52,6 @@ Our topic, "Covid-19 Descriptive Analysis: Information and Impact on Employment,
 ### Resources
  https://www.oecd.org/employment/covid-19.htm
  
+ https://www.ilo.org/employment/Informationresources/covid-19/lang--en/index.htm
+ 
+ 
