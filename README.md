@@ -64,3 +64,5 @@ https://europepmc.org/article/pmc/pmc8817409
 https://onlinelibrary.wiley.com/doi/full/10.1111/ilr.12226
 
 https://www.business-humanrights.org/en/latest-news/philippines-workers-face-unemployment-and-militarist-interference-in-democratic-space-during-covid-19/
+
+https://psa.gov.ph/content/employment-situation-april-2020#:~:text=Unemployment%20rate%20rose%20to%2017.7,to%20the%20Philippine%20labor%20market.
