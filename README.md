@@ -28,14 +28,10 @@ The Covid 19 pandemic has resulted a signifucant increase in unemployment/joblos
 
 The pandemic of Covid 19 hits the most  Philippines harder than other counties. The global lockdown due to the virus is the strictes in the world that all of the people were affected especially on their jobs, many people lost their job tend to lost income and to start also the increase of poverty.
 
+
 ### Significance of the Proposed Project
 
-The following will benefit from the study's findings:
-The given data would guide citizens of the US, particularly job workers, to have a deeper understanding about this study and for them to know what the things to do are in times of unemployment.
-
-These findings will benefit Batangas State University in providing technical knowledge that will be useful in achieving research objectives, especially in technological sectors. This research could be useful in teaching College of Information Technology faculty members about information technology concepts and hypotheses, as well as other pertinent areas.
-
-These findings will benefit Students at the College of Information Technology to help them develop new understanding. Future Researchers: This study will use this project as a starting point for future relevant project research. They will be able to research and learn about how this type of technology can aid in the tracking of Covid-19 victims' and unemployed workers' data.
+The results of the study will be of great benefit to the society , considering that job play a crucial role on maintaining such balance flow of the economy , also it will greatly benefits those people which are jobless upon finding the cause of these problems. This will greatly affect  the economy and is significant on finding a Job in much more ecxtent.
 
 
 ### Methods
@@ -66,3 +62,7 @@ https://onlinelibrary.wiley.com/doi/full/10.1111/ilr.12226
 https://www.business-humanrights.org/en/latest-news/philippines-workers-face-unemployment-and-militarist-interference-in-democratic-space-during-covid-19/
 
 https://psa.gov.ph/content/employment-situation-april-2020#:~:text=Unemployment%20rate%20rose%20to%2017.7,to%20the%20Philippine%20labor%20market.
+
+https://www.unicef.org/philippines/media/2581/file/The%20Impact%20of%20COVID-19%20Crisis%20on%20Households%20in%20NCR.pdf
+
+https://neda.gov.ph/ph-records-lowest-unemployment-rate-since-the-start-of-the-covid-19-pandemic-neda/
