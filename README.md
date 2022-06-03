@@ -46,7 +46,7 @@ Aside from mass layoffs from shuttered firms, thousands are placed on 'floating 
 
 
 ### Expected Output
-Our topic, "Covid-19 Descriptive Analysis: Information and Impact on Employment," is expected to result in community planning and assistance to the unemployed during the pandemic. A better community necessitates the unification of those who live in the same area. People must obey the rules and regulations in order to form a better group. The strategy for assisting the unemployed is to develop a program that will train or teach them how to perform a task. Free training for unemployed people will aid in the pandemic's survival. To assist the unemployed, a freelancing seminar is required to learn the skills. The product will sell, and they will be able to profit from it. The best key is to support the people  in growing the business that they build.
+During the pandemic, our topic, "Covid-19 Descriptive Analysis: Information and Impact on Employment," is likely to result in community planning and unemployment support. The unification of persons who reside in the same region is required for a better community. To establish a better organization, people must follow the rules and regulations. To help the unemployed, create a software that will train or teach them how to execute a task. Unemployed individuals will benefit from free training, which will help the pandemic survive. A freelancing seminar is essential to develop the skills needed to aid the unemployed. They will earn from the goods since it will sell. The most important factor is to assist employees in growing the company.
 
 ### Resources
  https://www.oecd.org/employment/covid-19.htm
