@@ -39,11 +39,11 @@ These findings will benefit Students at the College of Information Technology to
 
 
 ### Methods
-It refers to the researchers' meticulous design of a study in order to ensure that the findings are reliable and dependable, as well as that they address the study's goals and objectives. The descriptive analysis method was applied in this inquiry. Economic activity, jobs, and our way of life were all affected by the COVID-19 pandemic. All of these events have the ability to significantly affect one's subjective well-being. The purpose of this chapter is to describe the different ways in which the pandemic has impacted the global labor market and workplace, as well as to look at the long-term effects on employees' well-being all over the world.
+People's health, jobs, and rights have all been affected by the epidemic. The Duterte administration's inept pandemic reaction appears to have increased rather than alleviated Filipinos' misery. The unemployment rate is 8.8%, or 4.2 million individuals, according to the government's labor force survey dated February 2021. The greatest unemployment rate was observed at 17.6 percent during the first implementation of Enhanced Community Quarantine in April 2020.
 
-Many people have had to curtail their hours of work as a result of the pandemic, even if they are still employed. As a result, examining total hours worked declines provides a comprehensive view of the labor market's impact throughout the crisis. According to the International Labor Organization (ILO), global working hours decreased by 17.3 percent in the second quarter of 2020, resulting in the loss of 495 million full-time jobs. By the end of the year, average labor losses were approximately four times larger than during the Great Recession in 2009. In 2020, global labor income is anticipated to decline by 8.3%, resulting in a USD 3.7 trillion loss.
 
-These changes are predicted to have a significant influence on happiness. According to most research, those who are unemployed are 5 to 15% less satisfied with their life than those who are employed. On a scale of 0-10, unemployed workers are 0.6 points less happy than their full-time counterparts, according to the 2017 edition of our poll. Full-time employees in Western Europe and North America are said to be 1.11 and 1.31 points happier with their life than unemployed people, respectively. In comparison to other life events, becoming unemployed is also less susceptible to long-term well-being adaptation.
+Aside from mass layoffs from shuttered firms, thousands are placed on 'floating status,' meaning they have no work and no pay during the outbreak. They are not officially classified as jobless because they are waiting for firms to "recover" before returning to work. The Department of Labor and Employment extended the floating status, which had previously been limited to six months, for another year.
+
 
 ### Expected Output
 Our topic, "Covid-19 Descriptive Analysis: Information and Impact on Employment," is expected to result in community planning and assistance to the unemployed during the pandemic. A better community necessitates the unification of those who live in the same area. People must obey the rules and regulations in order to form a better group. The strategy for assisting the unemployed is to develop a program that will train or teach them how to perform a task. Free training for unemployed people will aid in the pandemic's survival. To assist the unemployed, a freelancing seminar is required to learn the skills. The product will sell, and they will be able to profit from it. The best key is to support the people  in growing the business that they build.
@@ -62,3 +62,5 @@ https://www.adb.org/news/youth-women-among-most-vulnerable-job-loss-southeast-as
 https://europepmc.org/article/pmc/pmc8817409
 
 https://onlinelibrary.wiley.com/doi/full/10.1111/ilr.12226
+
+https://www.business-humanrights.org/en/latest-news/philippines-workers-face-unemployment-and-militarist-interference-in-democratic-space-during-covid-19/
